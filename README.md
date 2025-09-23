@@ -178,8 +178,11 @@ PUTCHAR_PROTOTYPE {
 
 ```
 ## Output screen shots of serial port utility   :
+
  <img width="1037" height="531" alt="image" src="https://github.com/user-attachments/assets/bc38b274-d696-4500-a27e-b714f74a12ad" />
+
  ## Circuit board :
  <img width="453" height="630" alt="image" src="https://github.com/user-attachments/assets/2b1889db-8919-495b-b8c9-4992c4a8a634" />
+ 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
