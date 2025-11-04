@@ -258,7 +258,7 @@ void Error_Handler(void)
 
 ```
 ## Output screen shots of serial port utility   :
-![WhatsApp Image 2025-11-04 at 14 25 37_4431a820](https://github.com/user-attachments/assets/e464c0d4-5a56-472f-8943-e1bb7b3ad453)
+<img width="1919" height="1079" alt="Screenshot 2025-11-04 141847" src="https://github.com/user-attachments/assets/b1b4ec41-3aa2-44ba-9a37-43689bef3575" />
 
 ## Circuit board :
 Object not detected
