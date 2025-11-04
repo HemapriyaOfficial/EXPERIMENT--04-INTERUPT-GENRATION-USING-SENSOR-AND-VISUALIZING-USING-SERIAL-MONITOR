@@ -265,7 +265,8 @@ Object not detected
 ![WhatsApp Image 2025-11-04 at 14 25 37_4431a820](https://github.com/user-attachments/assets/337c5df2-4001-409b-9e4f-00fc35763b56)
 
 Object detected
-![WhatsApp Image 2025-11-04 at 14 25 36_c4304d07](https://github.com/user-attachments/assets/178eba69-152b-4ca7-b029-2ed4acede0c8)
+![WhatsApp Image 2025-11-04 at 14 53 21_4d7b7f70](https://github.com/user-attachments/assets/c1ec2e15-dc36-484f-8123-99ff4f5b8619)
+
 
 
 ## Result :
