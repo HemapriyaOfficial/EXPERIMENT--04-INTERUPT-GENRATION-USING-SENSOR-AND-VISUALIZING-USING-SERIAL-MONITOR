@@ -258,11 +258,15 @@ void Error_Handler(void)
 
 ```
 ## Output screen shots of serial port utility   :
+![WhatsApp Image 2025-11-04 at 14 25 37_4431a820](https://github.com/user-attachments/assets/e464c0d4-5a56-472f-8943-e1bb7b3ad453)
 
- <img width="1037" height="531" alt="image" src="https://github.com/user-attachments/assets/bc38b274-d696-4500-a27e-b714f74a12ad" />
+## Circuit board :
+Object not detected
+![WhatsApp Image 2025-11-04 at 14 25 37_4431a820](https://github.com/user-attachments/assets/337c5df2-4001-409b-9e4f-00fc35763b56)
 
- ## Circuit board :
- <img width="453" height="630" alt="image" src="https://github.com/user-attachments/assets/2b1889db-8919-495b-b8c9-4992c4a8a634" />
- 
+Object detected
+![WhatsApp Image 2025-11-04 at 14 25 36_c4304d07](https://github.com/user-attachments/assets/178eba69-152b-4ca7-b029-2ed4acede0c8)
+
+
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
